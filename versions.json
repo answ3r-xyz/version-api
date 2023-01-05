@@ -1,6 +1,6 @@
 {
- "quizbot": "1.0.0",
- "serverstatus": "1.0.0",
- "kdstatbot": "1.0.0",
- "handler": "1.0.2"
+ "Quiz": "1.0.0",
+ "Server Status": "1.0.0",
+ "K/D Stat": "1.0.0",
+ "Modules Handler": "1.0.2"
 }

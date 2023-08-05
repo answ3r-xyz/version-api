@@ -3,5 +3,5 @@
 	"Server Status": "serverstatus.js",
 	"K/D Stat": "kdstat.js",
 	"Music": "music.js",
-	"Ticket": "ticket.js"
+	"Ticket": "tickets.js"
 }
